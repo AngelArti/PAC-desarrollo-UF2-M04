@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?> 
 <rss version="2.0"> 
 	<channel>      
-		<title>RSS Guia Facil</title>      
-		<link>http://es.geocities.com/rss_guia_facil</link>      
-		<description>Guia fácil y sencilla sobre el formato RSS</description>      
+		<title>Ejercicio 6</title>      
+		<link>Ejercicio 6.html</link>      
+		<description>Echemos un ojo al desarrollo del ejercicio 6</description>      
 		<item>        
 			<title>Qué es el RSS</title>        
 			<link>http://es.geocities.com/rss_guia_facil/que_es_rss.html</link>        
@@ -17,9 +17,9 @@
 		</item>      
 
 		<item>        
-			<title>Cómo se usa el RSS</title>       
-			<link>http://es.geocities.com/rss_guia_facil/como_se_usa_rss.html 6</link>        
-			<description>Visita la Guía Fácil del RSS para saber cómo usar el formato RSS</description>      
+			<title>Dificultad en los videojuegos</title>       
+			<link>Sekiro, dificultad y accesibilidad en los videojuegos.htm</link>        
+			<description>Visita el artículo de Eurogamers donde se plantea el debate de la dificultad y accesibilidad en los videojuegos</description>      
 		</item> 
 
 	</channel> 
