@@ -2,8 +2,8 @@
 <rss version="2.0"> 
 	<channel>      
 		<title>Blog de videojuegos de Angel</title>      
-		<link>Ejercicio 6.html</link>      
-		<description>Echemos un ojo al desarrollo del ejercicio 6</description>      
+		<link>https://angelarti.github.io/PAC-desarrollo-UF2-M04/</link>      
+		<description>Noticias de videojuegos y mucho más</description>      
 		<item>        
 			<title>Blog de Angel</title>        
 			<link>https://angelarti.github.io/PAC-desarrollo-UF2-M04/</link>        
@@ -18,7 +18,7 @@
 
 		<item>        
 			<title>Dificultad en los videojuegos</title>       
-			<link>Sekiro, dificultad y accesibilidad en los videojuegos.htm</link>        
+			<link>https://www.eurogamer.es/articles/sekiro-dificultad-y-accesibilidad-en-videojuegos-articulo</link>        
 			<description>Visita el artículo de Eurogamers donde se plantea el debate de la dificultad y accesibilidad en los videojuegos</description>      
 		</item> 
 
